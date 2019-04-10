@@ -1,0 +1,11 @@
+/Users/Jordan/sdg/final/WebRequestApp/bin/Debug/netcoreapp2.2/WebRequestApp.deps.json
+/Users/Jordan/sdg/final/WebRequestApp/bin/Debug/netcoreapp2.2/WebRequestApp.runtimeconfig.json
+/Users/Jordan/sdg/final/WebRequestApp/bin/Debug/netcoreapp2.2/WebRequestApp.runtimeconfig.dev.json
+/Users/Jordan/sdg/final/WebRequestApp/bin/Debug/netcoreapp2.2/WebRequestApp.dll
+/Users/Jordan/sdg/final/WebRequestApp/bin/Debug/netcoreapp2.2/WebRequestApp.pdb
+/Users/Jordan/sdg/final/WebRequestApp/obj/Debug/netcoreapp2.2/WebRequestApp.csprojAssemblyReference.cache
+/Users/Jordan/sdg/final/WebRequestApp/obj/Debug/netcoreapp2.2/WebRequestApp.csproj.CoreCompileInputs.cache
+/Users/Jordan/sdg/final/WebRequestApp/obj/Debug/netcoreapp2.2/WebRequestApp.AssemblyInfoInputs.cache
+/Users/Jordan/sdg/final/WebRequestApp/obj/Debug/netcoreapp2.2/WebRequestApp.AssemblyInfo.cs
+/Users/Jordan/sdg/final/WebRequestApp/obj/Debug/netcoreapp2.2/WebRequestApp.dll
+/Users/Jordan/sdg/final/WebRequestApp/obj/Debug/netcoreapp2.2/WebRequestApp.pdb
